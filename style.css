@@ -11,9 +11,7 @@ body {
      max-width: 96vw;
      color: #fff;
 }
-embed{
-     visibility: hidden;
-}
+
 
 .wrapper {
      display: flex;
