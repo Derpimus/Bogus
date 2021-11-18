@@ -67,3 +67,4 @@ close.onclick = function()
 		close.innerHTML = "";
 	}
 };
+
